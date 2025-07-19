@@ -1,5 +1,5 @@
 # Portfolio
-My beginner-friendly projects in SQL and Python,
+My beginner-friendly projects in SQL and Python.
 # UK Interest Rate Trends
 
 ## 🔍 Problem
